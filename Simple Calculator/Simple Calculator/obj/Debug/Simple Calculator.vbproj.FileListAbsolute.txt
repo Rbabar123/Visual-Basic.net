@@ -1,0 +1,12 @@
+C:\Users\rbaba\OneDrive\Documents\Ms.nics\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\Users\rbaba\OneDrive\Documents\Ms.nics\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\Users\rbaba\OneDrive\Documents\Ms.nics\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\Users\rbaba\OneDrive\Documents\Ms.nics\Simple Calculator\Simple Calculator\bin\Debug\Simple Calculator.xml
+C:\Users\rbaba\OneDrive\Documents\Ms.nics\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.vbproj.AssemblyReference.cache
+C:\Users\rbaba\OneDrive\Documents\Ms.nics\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Form1.resources
+C:\Users\rbaba\OneDrive\Documents\Ms.nics\Simple Calculator\Simple Calculator\obj\Debug\Simple_Calculator.Resources.resources
+C:\Users\rbaba\OneDrive\Documents\Ms.nics\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.vbproj.GenerateResource.cache
+C:\Users\rbaba\OneDrive\Documents\Ms.nics\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\rbaba\OneDrive\Documents\Ms.nics\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\Users\rbaba\OneDrive\Documents\Ms.nics\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.xml
+C:\Users\rbaba\OneDrive\Documents\Ms.nics\Simple Calculator\Simple Calculator\obj\Debug\Simple Calculator.pdb
