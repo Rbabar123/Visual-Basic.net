@@ -1,0 +1,12 @@
+C:\Users\rbaba\OneDrive\Documents\Visual Basic Projects\Calculator-Version2\Calculator-Version2\bin\Debug\Calculator-Version2.exe.config
+C:\Users\rbaba\OneDrive\Documents\Visual Basic Projects\Calculator-Version2\Calculator-Version2\bin\Debug\Calculator-Version2.exe
+C:\Users\rbaba\OneDrive\Documents\Visual Basic Projects\Calculator-Version2\Calculator-Version2\bin\Debug\Calculator-Version2.pdb
+C:\Users\rbaba\OneDrive\Documents\Visual Basic Projects\Calculator-Version2\Calculator-Version2\bin\Debug\Calculator-Version2.xml
+C:\Users\rbaba\OneDrive\Documents\Visual Basic Projects\Calculator-Version2\Calculator-Version2\obj\Debug\Calculator-Version2.vbproj.AssemblyReference.cache
+C:\Users\rbaba\OneDrive\Documents\Visual Basic Projects\Calculator-Version2\Calculator-Version2\obj\Debug\Calculator_Version2.Form1.resources
+C:\Users\rbaba\OneDrive\Documents\Visual Basic Projects\Calculator-Version2\Calculator-Version2\obj\Debug\Calculator_Version2.Resources.resources
+C:\Users\rbaba\OneDrive\Documents\Visual Basic Projects\Calculator-Version2\Calculator-Version2\obj\Debug\Calculator-Version2.vbproj.GenerateResource.cache
+C:\Users\rbaba\OneDrive\Documents\Visual Basic Projects\Calculator-Version2\Calculator-Version2\obj\Debug\Calculator-Version2.vbproj.CoreCompileInputs.cache
+C:\Users\rbaba\OneDrive\Documents\Visual Basic Projects\Calculator-Version2\Calculator-Version2\obj\Debug\Calculator-Version2.exe
+C:\Users\rbaba\OneDrive\Documents\Visual Basic Projects\Calculator-Version2\Calculator-Version2\obj\Debug\Calculator-Version2.xml
+C:\Users\rbaba\OneDrive\Documents\Visual Basic Projects\Calculator-Version2\Calculator-Version2\obj\Debug\Calculator-Version2.pdb
