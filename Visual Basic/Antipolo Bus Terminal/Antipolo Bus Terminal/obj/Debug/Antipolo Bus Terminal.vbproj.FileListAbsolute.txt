@@ -1,0 +1,12 @@
+C:\Users\rbaba\OneDrive\Documents\Visual Basic\Antipolo Bus Terminal\Antipolo Bus Terminal\bin\Debug\Antipolo Bus Terminal.exe.config
+C:\Users\rbaba\OneDrive\Documents\Visual Basic\Antipolo Bus Terminal\Antipolo Bus Terminal\bin\Debug\Antipolo Bus Terminal.exe
+C:\Users\rbaba\OneDrive\Documents\Visual Basic\Antipolo Bus Terminal\Antipolo Bus Terminal\bin\Debug\Antipolo Bus Terminal.pdb
+C:\Users\rbaba\OneDrive\Documents\Visual Basic\Antipolo Bus Terminal\Antipolo Bus Terminal\bin\Debug\Antipolo Bus Terminal.xml
+C:\Users\rbaba\OneDrive\Documents\Visual Basic\Antipolo Bus Terminal\Antipolo Bus Terminal\obj\Debug\Antipolo Bus Terminal.vbproj.AssemblyReference.cache
+C:\Users\rbaba\OneDrive\Documents\Visual Basic\Antipolo Bus Terminal\Antipolo Bus Terminal\obj\Debug\Antipolo_Bus_Terminal.Form1.resources
+C:\Users\rbaba\OneDrive\Documents\Visual Basic\Antipolo Bus Terminal\Antipolo Bus Terminal\obj\Debug\Antipolo_Bus_Terminal.Resources.resources
+C:\Users\rbaba\OneDrive\Documents\Visual Basic\Antipolo Bus Terminal\Antipolo Bus Terminal\obj\Debug\Antipolo Bus Terminal.vbproj.GenerateResource.cache
+C:\Users\rbaba\OneDrive\Documents\Visual Basic\Antipolo Bus Terminal\Antipolo Bus Terminal\obj\Debug\Antipolo Bus Terminal.vbproj.CoreCompileInputs.cache
+C:\Users\rbaba\OneDrive\Documents\Visual Basic\Antipolo Bus Terminal\Antipolo Bus Terminal\obj\Debug\Antipolo Bus Terminal.exe
+C:\Users\rbaba\OneDrive\Documents\Visual Basic\Antipolo Bus Terminal\Antipolo Bus Terminal\obj\Debug\Antipolo Bus Terminal.xml
+C:\Users\rbaba\OneDrive\Documents\Visual Basic\Antipolo Bus Terminal\Antipolo Bus Terminal\obj\Debug\Antipolo Bus Terminal.pdb
