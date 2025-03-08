@@ -1,0 +1,12 @@
+C:\Users\rbaba\source\repos\Billing Management System\Billing Management System\bin\Debug\Billing Management System.exe.config
+C:\Users\rbaba\source\repos\Billing Management System\Billing Management System\bin\Debug\Billing Management System.exe
+C:\Users\rbaba\source\repos\Billing Management System\Billing Management System\bin\Debug\Billing Management System.pdb
+C:\Users\rbaba\source\repos\Billing Management System\Billing Management System\bin\Debug\Billing Management System.xml
+C:\Users\rbaba\source\repos\Billing Management System\Billing Management System\obj\Debug\Billing Management System.vbproj.AssemblyReference.cache
+C:\Users\rbaba\source\repos\Billing Management System\Billing Management System\obj\Debug\Billing_Management_System.Form1.resources
+C:\Users\rbaba\source\repos\Billing Management System\Billing Management System\obj\Debug\Billing_Management_System.Resources.resources
+C:\Users\rbaba\source\repos\Billing Management System\Billing Management System\obj\Debug\Billing Management System.vbproj.GenerateResource.cache
+C:\Users\rbaba\source\repos\Billing Management System\Billing Management System\obj\Debug\Billing Management System.vbproj.CoreCompileInputs.cache
+C:\Users\rbaba\source\repos\Billing Management System\Billing Management System\obj\Debug\Billing Management System.exe
+C:\Users\rbaba\source\repos\Billing Management System\Billing Management System\obj\Debug\Billing Management System.xml
+C:\Users\rbaba\source\repos\Billing Management System\Billing Management System\obj\Debug\Billing Management System.pdb
